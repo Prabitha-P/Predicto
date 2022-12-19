@@ -1,4 +1,8 @@
 # Predicto
+
+## Theme
+Innovative industry solutions catering to real-life challenges
+
 👉 Pause a moment here and have a look at this [click here](https://youtu.be/3Gx3Sm815G8)
 * A Greater Way to Predict your Dream Car's Price 🎯
 
