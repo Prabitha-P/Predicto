@@ -5,7 +5,7 @@
 > &ensp;📊  Predict the selling price of the car with ease <br>
   &ensp;👀 Play around with the interactive graph and visualize the trends <br><br>
 
-![front_page](source/Readme_images/front.jpg)
+![front_page](Readme_images/front.jpg)
 <br>
 >  &ensp; **Target audience include**<br>
   &ensp;🚘The one who wants to sell their car<br>
@@ -13,14 +13,14 @@
 
 __As said, Visualization is a great way to learn things! Go ahead and explore to understand the drift. Here you will be able to visualize the relationship between car company, Kilometers driven and the price at which it has been sold previously.__<br>
 
-![graph_image](source/Readme_images/graph.png)
+![graph_image](Readme_images/graph.png)
 
-### Soul of Predicto: [source/Data_Analysis.ipynb](./source/Data_Analysis.ipynb)<br>
+### Soul of Predicto: [Data_Analysis.ipynb](./Data_Analysis.ipynb)<br>
 
-![data](source/Readme_images/data.png)
+![data](Readme_images/data.png)
 ### Deep Dive into codes
- * __Brain of the Predicto:__ [source/application.py](./source/application.py)
- * __Graph codes:__ [source/graph.py](./source/graph.py)
+ * __Brain of the Predicto:__ [application.py](./application.py)
+ * __Graph codes:__ [graph.py](./graph.py)
 
 ### Steps to run the application
 ##### > Clone this repository
