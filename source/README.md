@@ -5,7 +5,7 @@
 > &ensp;📊  Predict the selling price of the car with ease <br>
   &ensp;👀 Play around with the interactive graph and visualize the trends <br><br>
 
-![front_page](Prabitha_P/Readme_images/front.jpg)
+![front_page](source/Readme_images/front.jpg)
 <br>
 >  &ensp; **Target audience include**<br>
   &ensp;🚘The one who wants to sell their car<br>
@@ -15,7 +15,7 @@ __As said, Visualization is a great way to learn things! Go ahead and explore to
 
 ![graph_image](source/Readme_images/graph.png)
 
-### Soul of Predicto: [source/Data_Analysis.ipynb](./Prabitha_P/Data_Analysis.ipynb)<br>
+### Soul of Predicto: [source/Data_Analysis.ipynb](./source/Data_Analysis.ipynb)<br>
 
 ![data](source/Readme_images/data.png)
 ### Deep Dive into codes
@@ -23,7 +23,7 @@ __As said, Visualization is a great way to learn things! Go ahead and explore to
  * __Graph codes:__ [source/graph.py](./source/graph.py)
 
 ### Steps to run the application
-#### > Clone this repository
-#### > Create an Virtual Environment
-#### > Verify the requirements. Download them if they aren't already there and run the application.py file.
-#### > And there you go with the application! 
+##### > Clone this repository
+##### > Create an Virtual Environment
+##### > Verify the requirements. Download them if they aren't already there and run the application.py file.
+##### > And there you go with the application! 
